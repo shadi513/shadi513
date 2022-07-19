@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shadi513
+- 👋 Hi, I’m Shadi Abu Salem
 - 👀 I’m interested in computer, programming, embedded systems, games, bla bla bla
 - 🌱 I’m currently learning laravel
 - 💞️ I’m looking to collaborate on ...
